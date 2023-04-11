@@ -37,6 +37,7 @@
 </div>
 <div id="container">
 나는 이정렬입니다.
+2번째
 </div>
 <div id="footer">footer ( 1000 x 100)
 	<div id="flogo"> Copyright &copy; Class 4. All rights reserved.</div>
