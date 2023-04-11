@@ -31,6 +31,7 @@
 	</div>
 	<div id="container">
 		기이린 👌👌👌👌 
+		2번째 수정입니다.
 	</div>
 	
 	<div id="footer"> footer (1000 x 100)
