@@ -34,7 +34,7 @@
 	<div id="naviBar">navi (1000 x 60)</div>
 </div>
 <div id="container">
-나는 이은혜입니다. ㅋ
+나는 이은혜입니다. ㅋㅎ
 </div>	
 <div id="footer">footer (1000 x 100)
 	<div id="flogo">Class &copy; Class4. All rights reserved.</div>
