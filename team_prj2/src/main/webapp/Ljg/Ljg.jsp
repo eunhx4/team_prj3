@@ -67,6 +67,7 @@ color:#d7d7d7;
 
 <div id="container">
 나는 이재건 입니다.
+2번째 수정본입니다.
 </div>
 
 
